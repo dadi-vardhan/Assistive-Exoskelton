@@ -1,4 +1,4 @@
-# Lower Limb Assistive Exoskelton
+# Lower Limb Assistive Exoskeleton
 
 Material = Aluminium 7075 T6;
 
